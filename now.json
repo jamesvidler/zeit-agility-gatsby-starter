@@ -1,0 +1,1 @@
+{"build":{"env":{"AGILITY_GUID":"@agility-guid","AGILITY_API_KEY":"@agility-api-key","AGILITY_API_ISPREVIEW":"@agility-api-ispreview"}},"env":{"AGILITY_GUID":"@agility-guid","AGILITY_API_KEY":"@agility-api-key","AGILITY_API_ISPREVIEW":"@agility-api-ispreview"},"name":"zeit-agility-gatsby-starter"}
